@@ -1,4 +1,4 @@
-# image-captioning-sca-cnn-AdaptiveAttention
+# SCA-AA for Image Captioning
 ## aa
 code for Adaptive-Attention
 ## sca-aa
